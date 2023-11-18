@@ -1,0 +1,10 @@
+
+
+body{
+    background-color: #e2e2e2!important;
+}
+
+.page-item.active .page-link{
+    background-color: #121212!important;
+    border-color: #121212!important;
+}
